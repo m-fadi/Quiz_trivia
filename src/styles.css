@@ -9,6 +9,15 @@
   align-items: center;
 }
 
+.main-menu{
+  height: 80vh;
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+}
+
 .start-btn,
 .finish-btn {
   padding: 15px 40px;
